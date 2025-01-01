@@ -36,3 +36,5 @@ The game window should open, and you can interact with it using the controls des
 - **A**: Rotate left
 - **D**: Rotate right
 - **Esc**: Exit the program
+
+See it on [action](https://youtu.be/YLeauFlM1KY)
